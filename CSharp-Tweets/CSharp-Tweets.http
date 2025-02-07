@@ -1,0 +1,15 @@
+@CIS376_Assignment2_HostAddress = http://localhost:5290
+
+### Get all tweets
+GET {{CIS376_Assignment2_HostAddress}}/tweets
+Accept: application/json
+
+### Get a tweet by ID
+GET {{CIS376_Assignment2_HostAddress}}/tweets/311828115477372928
+Accept: application/json
+
+### Get user info by screen_name
+GET {{CIS376_Assignment2_HostAddress}}/users/johnmaeda
+Accept: application/json
+
+###

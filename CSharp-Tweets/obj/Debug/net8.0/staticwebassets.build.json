@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JAl8jYtLDKi9WrXymnKgCv6pYafktNDcmvH+1y2TYho=",
+  "Source": "CSharp-Tweets",
+  "BasePath": "_content/CSharp-Tweets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
