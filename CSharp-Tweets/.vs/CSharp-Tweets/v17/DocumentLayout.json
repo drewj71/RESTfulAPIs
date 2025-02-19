@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|c:\\users\\drewj\\onedrive\\documents\\github\\restfulapis\\csharp-tweets\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|solutionrelative:tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|c:\\users\\drewj\\onedrive\\documents\\github\\restfulapis\\csharp-tweets\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|c:\\users\\drewj\\onedrive\\documents\\github\\restfulapis\\csharp-tweets\\csharp-tweets.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|solutionrelative:csharp-tweets.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|c:\\users\\drewj\\onedrive\\documents\\github\\restfulapis\\csharp-tweets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|c:\\users\\drewj\\onedrive\\documents\\github\\restfulapis\\csharp-tweets\\csharp-tweets.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|solutionrelative:csharp-tweets.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|c:\\users\\drewj\\onedrive\\documents\\github\\restfulapis\\csharp-tweets\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|solutionrelative:tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6725380-1FC1-4728-B853-FB0F8C6DBC82}|CSharp-Tweets.csproj|c:\\users\\drewj\\onedrive\\documents\\github\\restfulapis\\csharp-tweets\\tweetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,65 +58,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T19:16:51.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CSharp-Tweets.http",
               "DocumentMoniker": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\CSharp-Tweets.http",
               "RelativeDocumentMoniker": "CSharp-Tweets.http",
               "ToolTip": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\CSharp-Tweets.http",
               "RelativeToolTip": "CSharp-Tweets.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-02-07T00:19:05.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T00:19:04.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Tweet.cs",
               "DocumentMoniker": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\Tweet.cs",
               "RelativeDocumentMoniker": "Tweet.cs",
               "ToolTip": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\Tweet.cs",
               "RelativeToolTip": "Tweet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T00:19:03.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TweetService.cs",
               "DocumentMoniker": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\TweetService.cs",
               "RelativeDocumentMoniker": "TweetService.cs",
               "ToolTip": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\TweetService.cs",
               "RelativeToolTip": "TweetService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T00:19:01.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
               "ToolTip": "C:\\Users\\drewj\\OneDrive\\Documents\\GitHub\\RESTfulAPIs\\CSharp-Tweets\\User.cs",
               "RelativeToolTip": "User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T00:18:57.777Z",
               "EditorCaption": ""

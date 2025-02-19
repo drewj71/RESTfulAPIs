@@ -30,6 +30,13 @@ app.MapGet("/users/{screen_name}", async (string screen_name, TweetService servi
     return user is not null ? Results.Ok(user) : Results.NotFound();
 });
 
+app.MapGet("/extract-links", async (TweetService service) =>
+{
+    var links = await service.GetExternalLinksFromTweets();
+    return links is not null ? Results.Ok(links) : Results.NotFound();
+});
+
+
 // Configure the HTTP request pipeline.
 
 app.UseHttpsRedirection();

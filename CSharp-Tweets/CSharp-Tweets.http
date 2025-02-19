@@ -12,4 +12,8 @@ Accept: application/json
 GET {{CIS376_Assignment2_HostAddress}}/users/johnmaeda
 Accept: application/json
 
+### Get all external links in tweet text
+GET {{CIS376_Assignment2_HostAddress}}/extract-links
+Accept: application/json
+
 ###

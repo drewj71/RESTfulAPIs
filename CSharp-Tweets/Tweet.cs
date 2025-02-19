@@ -11,7 +11,13 @@
 
     public class ExternalLinks
     {
-        public int tweet_id { get; set; }
+        public long tweet_id { get; set; }
         public string link { get; set; }
+    }
+
+    public class GroupedExternalLinks
+    {
+        public long tweet_id { get; set; }
+        public List<string> links { get; set; }
     }
 }
